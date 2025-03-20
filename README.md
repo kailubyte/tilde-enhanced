@@ -1,22 +1,17 @@
-[![GitHub Issues](https://img.shields.io/github/issues/Ozencb/tilde-enhanced)](https://github.com/Ozencb/tilde-enhanced/issues)
-[![Stars](https://img.shields.io/github/stars/Ozencb/tilde-enhanced)](https://github.com/Ozencb/tilde-enhanced)
-[![Forks](https://img.shields.io/github/forks/Ozencb/tilde-enhanced)](https://github.com/Ozencb/tilde-enhanced)
-[![Unlicense](https://img.shields.io/github/license/Ozencb/tilde-enhanced)](../master/LICENSE)
-
 # Tilde Enhanced
 
 Based on [Cade Scroggins](https://github.com/cadejscroggins)'s [Tilde](https://github.com/cadejscroggins/tilde).
 
-## Screenshots 
+## Screenshots
 
 ![Screenshot](assets/screenshot.png)
 
-
 ## Added Features
+
 Most of the features are carried over from the original source.
 Few of the added features are:
 
-- A launch category functionality, which launches every site in a category. Enter a category index number followed by `!`, i.e. `2!` would launch everything under the second category. 
+- A launch category functionality, which launches every site in a category. Enter a category index number followed by `!`, i.e. `2!` would launch everything under the second category.
 - A "Quick Launch" functionality, which launches every site with `quickLaunch` property set to `true` upon entering `q!`.
 - An invertible color theme. Either edit config or use `invert!` command.
 - Show image or SVG as bookmark icon
@@ -97,4 +92,4 @@ You can follow [Urimu's Guide](https://github.com/Urimu/Startpage#setting-it-up-
 
 ## License
 
-Feel free to [use this and modify it however you like](https://github.com/Ozencb/tilde-enhanced/blob/master/LICENSE).
+Feel free to [use this and modify it however you like](https://github.com/kailubyte/tilde-enhanced/blob/master/LICENSE).
